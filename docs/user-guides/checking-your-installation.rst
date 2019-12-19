@@ -2,7 +2,7 @@
 Checking Your Installation
 ==========================
 
-When debugging mod_wsgi or a WSGI application, it is import to be able to
+When debugging mod_wsgi or a WSGI application, it is important to
 understand how mod_wsgi has been installed, what Apache and/or Python it
 uses and how those systems have been configured, plus under what
 configuration the WSGI application is running.
